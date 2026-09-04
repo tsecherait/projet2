@@ -1,7 +1,7 @@
 import requests
 import csv
 
-commit1commit2commit3
+
 
 def extract(url):
     response = requests.get(url)
